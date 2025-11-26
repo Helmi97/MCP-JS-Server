@@ -13,7 +13,7 @@ A simple boilerplate for building Model Context Protocol (MCP) servers in Node.j
 Clone the repository:
 
 ```
-git clone <repo>
+git clone https://github.com/Helmi97/MCP-JS-Server.git
 cd mcp-js-server
 npm install
 npm start
