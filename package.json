@@ -1,0 +1,14 @@
+{
+  "name": "mcp-js-server",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.1.0",
+    "express": "^4.19.0",
+    "zod": "^4.0.0"
+  }
+}
